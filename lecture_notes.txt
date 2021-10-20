@@ -1,0 +1,16 @@
+lecture starts with introduction to the maam ;
+maam => Aradhana Kund 
+code should be very clean and to the point .
+------------------------------------------------------------------------------
+M -> MongoDB
+E -> Express--->used to help / ease Nodejs
+R -> React----> used for front end development . it's a library .  
+N -> Nodejs--> to bring js to database 
+------------------------------------------------------------------------------
+user interface --> whatever we are able to see and project upon . ---> front end 
+framework ---> ???
+tailwind css > bootstrap > css. 
+redux --> static management --> front end se access . 
+Docker ---> used to CONTAINARISE an application .
+
+
