@@ -18,9 +18,9 @@ AWS--->amazon's attempt to global diemensions .
 __________________________________________________________________________________
 hyperlink - > 
 
-  |
+  |            |            |
 https://docs.google.com/project1#teamlol
-
+         |           |              |
 
 __________________________________________________________________________________
 level -1 - fundamentals of development: 

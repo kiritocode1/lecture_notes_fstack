@@ -1,4 +1,14 @@
 
+week - 1 Accessed : ds algo . 
+
+
+Static vs dynamic webpage : 
+static --> contents can't be changed . we cant input any data .  made by HTML/CSS
+dynamic -> contents can be changed . we can give info . made by html / css / jscript
+
+
+
+
 
 
 
