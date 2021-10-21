@@ -7,9 +7,13 @@ static --> contents can't be changed . we cant input any data .  made by HTML/CS
 dynamic -> contents can be changed . we can give info . made by html / css / jscript
 
 
+started with html -> lecture_notes_fstack\index.html
+html - > hyper text markup language. 
 
-
-
+hyperlink /text --> all connected to each other. 
+markup --> html tags are used to define page layout . 
+__________________________________________________________________________________
+ 
 
 
 
