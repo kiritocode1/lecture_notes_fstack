@@ -12,14 +12,13 @@ framework ---> ???
 tailwind css > bootstrap > css. 
 redux --> static management --> front end se access . 
 Docker ---> used to CONTAINARISE an application .
-kubernetes---->
-
-AWS--->
+kubernetes---->tester basically.
+AWS--->amazon's attempt to global diemensions . 
 
 __________________________________________________________________________________
 hyperlink - > 
 
-
+  |
 https://docs.google.com/project1#teamlol
 
 
