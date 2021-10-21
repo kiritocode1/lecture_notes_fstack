@@ -48,6 +48,12 @@ ________________________________________________________________________________
 THIS STRUCTURE IS CALLED DOM 👆👆👆 will learn more in the future
 __________________________________________________________________________________
 
+heading explained properly and told about the uses of heading.
+<h> -> h1,h2,h3,h4,h5,h6
+<p> -> paragraph
+<ul>--> unordered list--> <li>--> list item
+<ol>---> ordered list ----> li present here too. 
+
 
 
 
