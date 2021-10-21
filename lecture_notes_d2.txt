@@ -13,7 +13,8 @@ html - > hyper text markup language.
 hyperlink /text --> all connected to each other. 
 markup --> html tags are used to define page layout . 
 __________________________________________________________________________________
- 
+
+insight in the companies given 
 
 
 
