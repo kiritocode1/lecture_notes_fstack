@@ -16,6 +16,37 @@ ________________________________________________________________________________
 
 insight in the companies given 
 
+__________________________________________________________________________________
+html boilerplate - > ! 
+
+tags   ----> inside them we put our info . 
+<html> ----> parent tag. lang = "en" --> language english.
+<head> ----> not shown  in the wabpage . 
+<meta> ----> gives info for entire document , characterset = "UTF-8"
+<title>----> the title of the page. 
+<body> ----> the main code place . where u put  the code in . 
+
+
+__________________________________________________________________________________
+                                        child concept explained 
+                                        head ---parent---> meta , title
+                                        title and meta are siblings
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <a rel="stylesheet" href="style.css"></a>
+</head>
+<body>
+    
+</body>
+</html>
+__________________________________________________________________________________
+THIS STRUCTURE IS CALLED DOM 👆👆👆
 
 
 
