@@ -2,15 +2,54 @@ lecture starts with introduction to the maam ;
 maam => Aradhana Kund 
 code should be very clean and to the point .
 ------------------------------------------------------------------------------
-M -> MongoDB
+M -> MongoDB--->to optimize the data base. 
 E -> Express--->used to help / ease Nodejs
-R -> React----> used for front end development . it's a library .  
-N -> Nodejs--> to bring js to database 
+R -> React----> used for front end development . it's a library . to make dynamic webpage , not <a> as i used. 
+N -> Nodejs--> to bring js from local to  database 
 ------------------------------------------------------------------------------
 user interface --> whatever we are able to see and project upon . ---> front end 
 framework ---> ???
 tailwind css > bootstrap > css. 
 redux --> static management --> front end se access . 
 Docker ---> used to CONTAINARISE an application .
+kubernetes---->
 
+AWS--->
+
+__________________________________________________________________________________
+hyperlink - > 
+
+
+https://docs.google.com/project1#teamlol
+
+
+__________________________________________________________________________________
+level -1 - fundamentals of development: 
+what is development , browser , search, DNS  etc . 
+
+level -2 - HTML and CSS :
+basics of both languages , and also basic  jscript. 
+
+level -3 - JAVASCRIPT & bootstrap:
+advanced jscript and Bootstrap css library . 
+
+level -4 - Nodejs & Express :
+more advanced jsript like friends  coroutines . 
+MICROSERVICES ARCHITEXTURE . 
+
+level -5 - MongoDB :
+basic and then we can go to sql on our own. 
+
+
+level -6 - React:
+for front end 
+redux => interacting database from the front-end at the same time . 
+tailwind css => god tier standard css library . 
+
+level -7 - DEV ops with Docker :
+docker -> containarize the application . virtual space for application
+CICD -> transfer agent from docker to kubernetes 
+    | stands for Continuous integration Continuous Deployement. 
+
+kubernetes ->  test software . beta testers use this , kubernetes  also checks for clashes . 
 
