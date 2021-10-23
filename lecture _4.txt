@@ -1,9 +1,6 @@
-
-
-
-
-
-
+accessibility --- > aria . screen reader . 
+ div , span  explained , 
+ style them differently 
 ____________________________broken link , ,copy later . ___________________________________________
 table taught 
 tr ---> table row 
@@ -42,4 +39,77 @@ ________________________________________________________________________________
 </body>
 </html>
 __________________________________________________________________________________________________________
+semantic tags ---> specific tag that defines only one thing like  table , img , etc , aria etc . 
+non-semantic tag ----> non specific tags , like div etc . 
+___________________________________________________________________________________________________________________
+
+                                       navbar.
+header 
+--------------------------------------------------------------------------------------------------------------------
+
+                  |
+                  |
+sidebar           |
+                  |
+                  |                         section of the webpage 
+                  |
+                  |
+                  |
+                  |
+                  |
+                  |
+                  |
+                  |
+--------------------------------------------------------------------------------------------------------------------------
+footer 
+
+_________________________________________________________________________________________________________________________________________
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <nav>
+        <h1>home</h1>
+        <h1>ABOUT</h1>
+    </nav>
+    <aside>
+        <h2>dashboard</h2>
+    </aside>
+    <section>
+        <h1>pizza hut</h1>
+        <h1> delhivery pizza </h1>
+    </section>
+    <footer>
+        <p>email-nice@gmail.com , ph-no-1000000000</p>
+    </footer>
+</body>
+</html>
+______________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
