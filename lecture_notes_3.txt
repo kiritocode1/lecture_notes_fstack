@@ -1,0 +1,36 @@
+Lecture -3 started . 
+began with attributes and what they are in html 
+```attributes``` ---> 
+     used inside opening tags 
+    like href , gives context 
+____some  tags ______
+```<ol type = "">``` is a tag for type --> changes the type of beginnere sor eg 1, I , A.
+Media Type . 
+<img> ----> image , put ```src = " "``` in to give it where to look from 
+copy img address and paste it in she meant 
+```alt``` is also an option to src tag that , helps the source tag . 
+
+        IMG -----------```src```--------->>>html access.
+                |
+                |
+                ```alt```
+                |
+                |
+                -------------------> not found error condition  messg . 
+```width & height ``` also present in img. 
+
+also taught about the ```inline``` and ```Block``` type of tags 
+
+```inline``` ---> [___a___],[___________b____]------>width and height adjustable . 
+```block```  ----> [________________________________a____________________________________],
+             [________________________________b____________________________________]----> not adjustable whatsoever in html. but css is fair game. 
+
+INLINE --> image , video , audio , 
+Block ----> h1 , br , hr , etc . 
+
+
+
+
+
+
+
