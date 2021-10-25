@@ -1,0 +1,10 @@
+css begun  today  
+html is for structure 
+css is for styling 
+jscript is for functionality 
+css comes with practice , a lot of work is needed .
+_________________________________________________________________________________________________________
+
+<link rel = " " href = "">
+used to link the  stylesheet .
+
