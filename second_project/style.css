@@ -2,19 +2,9 @@ body{
     background-color: black;
 }
 
-.a{
-    color: aliceblue;
+div{
+    font-size: x-large;
+    color: gray;
+    font-style: inherit;
 }
-.b{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 150%;
-    color-scheme: blue,green;
-    color: aquamarine;
-}
-#b{
-    color :wheat;
-}
-
-
-
 

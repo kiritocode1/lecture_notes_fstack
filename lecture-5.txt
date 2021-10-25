@@ -13,7 +13,14 @@ always use class selector and not id selector
 
 _________________________________________________________________________________________________________
 inline > id > class > div. 
-
+_________________________________________________________________________________________________________
+flex --> very imp
+grid --> very imp
+transitions---> very imp
+hover ---> very imp
+------------------------------------------------------------
+? tailwind css is inline someone said . check ▐
+course is going to be critical at some point . lets see how we go do it
 
 
 
