@@ -1,0 +1,13 @@
+today we started with the margin and padding. 
+margin --> outside the box 
+padding --> inside the box . 
+
+padding is a inner thing and margin is outer thing . 
+
+
+
+
+
+
+
+
