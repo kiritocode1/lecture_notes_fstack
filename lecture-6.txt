@@ -5,6 +5,11 @@ padding --> inside the box .
 padding is a inner thing and margin is outer thing . 
 
 
+20 px --> exactly what it says . 
+20 % --> relative to the size of screen .. 
+
+we are done with the margin and padding parts today and also looked at the box model. 
+overall preety good session . 
 
 
 
