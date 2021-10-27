@@ -1,0 +1,57 @@
+media queries are important as always . 
+a media querie is basically the / pages we see in a website most of the time . 
+___________________________________________________________________________________________________________
+mobile first approach ---> very very important . 
+
+___________________________________________________________________________________________________________
+Display types {block display and inline display}
+
+___________________________________________________________________________________________________________
+*{
+    /*for entire browser this is used*/
+}
+___________________________________________________________________________________________________________
+width of 100% just means  that the block of code gets the color . 
+
+there is a overflow when the child division increases in size than to fill in 
+
+
+
+to avoid use display inline 
+
+
+___________________________________________________________________________________________________________
+browser is the parent to every tag by default , but with css we can do it ,
+the parent that is the relative 
+and the child is the absolute 
+
+
+*{
+    margin:0;
+    padding: 0;
+}
+.parent{
+    position: relative;
+    background-color: black;
+    width: 50px;
+    height: 50px;
+}
+.child{
+    position: absolute;
+    background-color: antiquewhite;
+    width: 10px;
+    height: 10px;
+    /* top: 0; */
+    right: 0;
+    bottom: 0;
+}
+-----------------------------------------------------------------------------------------------------------------------------
+ 
+
+
+
+
+
+
+
+
