@@ -1,0 +1,115 @@
+flex is very important .
+inline ----> all elements in a particular row 
+flex---> thousands of more propertys .
+
+parent---
+        |
+  ----------------------------------------
+ |   [ ]  [ ]  [ ]
+ |    |__child
+ |
+ |
+ |
+ |
+  ----------------------------------------
+flexbox cheetsheet is in the chat ---> 
+
+
+
+_______________________________________________________________________________________________
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>l-8</title>
+</head>
+<body>
+    <div class="p">
+        <div class="c"></div>
+        <div class="c"></div>
+        <div class="c"></div>
+        <div class="c"></div>
+        <div class="c"></div>
+        <div class="c"></div>
+        <div class="c"></div>
+        <div class="c"></div>
+        <div class="c"></div>
+        <div class="c"></div>
+        <div class="c"></div>
+        <div class="c"></div>
+        <div class="c"></div>
+        <div class="c"></div>
+        <div class="c"></div>
+    </div>
+</body>
+</html>
+_______________________________________________________________________________________________
+css for project ---> 
+body{
+    background-color: black;
+    padding:100px;
+}
+.p{
+    background-color: white;
+    width: 100%;
+    height: 500px;
+    /* ! display flex to kindoff do something .. */
+    display:flex;
+    /* ! gap to give a gap */
+    gap:1px;
+    flex-wrap: wrap;
+    /*! they decrease their width without flex wrap  */
+}
+.c{
+    background-color:greenyellow;
+    width: 100%;
+    height: 200px;
+}
+
+
+
+_______________________________________________________________________________________________
+justify-content---> to align at  center or at the different area
+align---> very big
+   align-items = center , baseline  and many more 
+align ---> columwise alignment 
+justify --> row wise alignment 
+
+display : flex 
+so they come beside one another . 
+_______________________________________________________________________________________________
+new code ---> for center alignment.
+body{
+    background-color: black;
+    padding:100px;
+}
+.p{
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    /* ! display flex to kindoff do something .. */
+    display:flex;
+    /* ! gap to give a gap */
+    gap:100px;
+    /* flex-wrap: wrap; */
+    /*! they decrease their width without flex wrap  */
+    justify-content: center;
+
+    /*? cant do at the same time .we can  actually  */
+    align-items: center;
+}
+.c {
+    background-color:greenyellow;
+    width: 100px;
+    height: 200px;
+}
+.c2{
+    background-color: blue;
+    width: 100px;
+    height: 200px;
+}
+_______________________________________________________________________________________________
+

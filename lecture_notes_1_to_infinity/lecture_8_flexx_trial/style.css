@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    padding:100px;
+}
+.p{
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    /* ! display flex to kindoff do something .. */
+    display:flex;
+    /* ! gap to give a gap */
+    gap:100px;
+    /* !flex-wrap: wrap; */
+    /*? they decrease their width without flex wrap  */
+    justify-content: center;
+    /*? cant do at the same time .  */
+    align-items: center;
+}
+.c {
+    background-color:greenyellow;
+    width: 100px;
+    height: 200px;
+}
+.c2{
+    background-color: blue;
+    width: 100px;
+    height: 200px;
+}

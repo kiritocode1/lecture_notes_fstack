@@ -3,12 +3,14 @@
     font-style: monospace;
     color: white;
 }
+body{
+    display: flex;
+}
 span button{
-    margin-top: 20%;
-    margin-left: 43%;
+    margin-top: 10%;
+    margin-left: 28%;
     color:darkcyan;
-    height: 100px;
-    width: 100px;
+    height: 300px;
+    width: 400px;
     background-color: greenyellow;
-    
 }
