@@ -80,7 +80,7 @@ align ---> columwise alignment
 justify --> row wise alignment 
 
 display : flex 
-so they come beside one another . 
+so they come beside one another .  without the flex properties we would have no way to do it . 
 _______________________________________________________________________________________________
 new code ---> for center alignment.
 body{
