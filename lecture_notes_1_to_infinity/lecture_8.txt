@@ -1,3 +1,4 @@
+DAY-10 : maam was not feeling well and the writing pad was not working properly , but overall ok lecture . 
 flex is very important .
 inline ----> all elements in a particular row 
 flex---> thousands of more propertys .
@@ -12,7 +13,7 @@ parent---
  |
  |
   ----------------------------------------
-flexbox cheetsheet is in the chat ---> 
+flexbox cheetsheet is in the chat ---> https://yoksel.github.io/flex-cheatsheet/
 
 
 
