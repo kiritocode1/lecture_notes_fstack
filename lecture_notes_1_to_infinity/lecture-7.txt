@@ -46,7 +46,12 @@ and the child is the absolute
     bottom: 0;
 }
 -----------------------------------------------------------------------------------------------------------------------------
- 
+MEDIA queries
+media quieries is basically the way to which we can  change the size 
+
+
+
+
 
 
 
