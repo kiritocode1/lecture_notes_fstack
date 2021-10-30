@@ -20,6 +20,24 @@ git config  --global user.name "your username"
 git config  --global user.email "user email"
 git init 
 _______________________________________________________________________________________________
+some key git commands 
+ git add . 
+-- adds all changes u made in every file inside the folder , including new files and deleted files 
 
+git add file 
+-- adds all changes u made to a specific file u have 
+
+
+git commit -m "message here" 
+--adds the git changes u made after adding to a commit for git to process . 
+
+
+git push 
+--pushes ur changes or gives preferance to ur changes inside the remote repo . 
+
+git pull 
+--pulls the latest changes  from the git repo . 
+_______________________________________________________________________________________________
+advanced git 
 
 
