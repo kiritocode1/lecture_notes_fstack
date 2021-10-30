@@ -1,0 +1,25 @@
+aradhna maam seems to have a nw computer  anyways it was fine 
+_______________________________________________________________________________________________
+download git from here ----> 
+search git install 
+
+
+
+
+check if git is installed via cmd prompt .  type  git 
+and then we can begin 
+
+_______________________________________________________________________________________________
+create a new repository using github . go to https://github.com 
+create a new account . 
+create a repo . 
+_______________________________________________________________________________________________
+for new students --> 
+
+git config  --global user.name "your username" 
+git config  --global user.email "user email"
+git init 
+_______________________________________________________________________________________________
+
+
+
