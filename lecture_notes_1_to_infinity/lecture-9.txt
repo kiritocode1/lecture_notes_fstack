@@ -37,7 +37,22 @@ git push
 
 git pull 
 --pulls the latest changes  from the git repo . 
+
+git status 
+-- shows the recent changes if any 
+
+
 _______________________________________________________________________________________________
-advanced git 
+problems for git .
+
+if u are getting an error . due to access token 
+if asked for password  give ur access token .
+got to settings --> dev settings ---> personal access tokens ---> generate a new token 
+
+_______________________________________________________________________________________________
+
+
+
+
 
 
