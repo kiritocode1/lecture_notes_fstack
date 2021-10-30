@@ -44,6 +44,8 @@ git log ---oneline
 shows the commit history 
 
 git reset --hard and then get the token of commit and paste
+got eg git reset --hard 907h2903jl 
+return to the commit with token  907h2903jl  . 
 
 _______________________________________________________________________________________________
 problems for git .
