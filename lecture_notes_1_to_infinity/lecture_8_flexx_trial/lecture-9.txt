@@ -17,5 +17,10 @@ int , bool , etc .
 
 let --> to declare a variable.{let variable_name = value ;} 
 const --> to declare a constand non changable variable . {const variable_name= value;}
+conditional statements --> as always 
+in jscript. 
+
+connect to the html , maam forgot , u shouldnt . using <script> source</script>
+
 
 
