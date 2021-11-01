@@ -1,0 +1,11 @@
+maam solves cp problems contrary to popular belief . 
+basic javascript concepts . 
+_____________________________________________________________________________________________________________
+all the connections from the user side to the developer site . 
+
+
+
+let --> to declare a variable . 
+
+
+
