@@ -1,11 +1,21 @@
 maam solves cp problems contrary to popular belief . 
 basic javascript concepts . 
 _____________________________________________________________________________________________________________
-all the connections from the user side to the developer site . 
+all the connections from the user side to the developer site/nice😁😁. 
+
+step-1 --> basics . 
+step-2 --> dom manipulation 
+step-3 --> advanced . 
+
+_____________________________________________________________________________________________________________
+datatypes concepts done, primitives and non primitives . 
+undefined --> no data type . 
+null --> same as None , NULL , {}  ,  etc . 
+strings --> strings  everybody knows and loves them . 
+int , bool , etc . 
 
 
-
-let --> to declare a variable . 
-
+let --> to declare a variable.{let variable_name = value ;} 
+const --> to declare a constand non changable variable . {const variable_name= value;}
 
 
