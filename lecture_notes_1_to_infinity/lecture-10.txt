@@ -22,5 +22,27 @@ in jscript.
 
 connect to the html , maam forgot , u shouldnt . using <script> source</script>
 
+--------------------------------------------------------------------------------------------------------------------------
 
+let a, b = 10; 100;
+if (a > b) {
+    console.log(a);
+}
+else {
+    console.log(b);
+}
+checc in the console part . 
+_____________________________________________________________________________________________________________
+and linked to kindoff like this 
+<body>
+    <span><button>
+        clicc
+    </button></span>
+    <script src="./script.js"></script> 
+</body>
+_____________________________________________________________________________________________________________
+&& --> double ampersand is used for logical and operator , 
+|| --> logical or operator 
+== --> checks the dtype and the value 
+=== checks the value only , fk datatypes . 
 
