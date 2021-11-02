@@ -1,0 +1,7 @@
+maam started with jscript
+for, while , do while all present in jscript 
+
+
+
+
+
