@@ -15,3 +15,9 @@ span button{
     width: 400px;
     background-color: greenyellow;
 }
+span button:hover{
+    transition: all ease;
+    
+    color: brown;
+    background-color: yellow;
+}

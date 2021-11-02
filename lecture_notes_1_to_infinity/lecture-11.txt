@@ -31,5 +31,36 @@ break; --> breaks the loop
 continue; --> continue
 _____________________________________________________________________________________________________________
 
+FUNCTIONAL PROGRAMMING --> very very important . 
+var a = 100; b = 10;
+function add(a, b) {
+    return console.log(a + b);
+}
+add(a,b);
+
+_____________________________________________________________________________________________________________
+assignment -  >
+var a = 1;
+function add() {
+    a++;
+};
+for (var i = 0; i < 100; i++){
+    add();
+    if (i % 2 == 0) { console.log(a); }
+};
+
+_____________________________________________________________________________________________________________
+simpler code --> 
+
+for (var i = 0; i <=100; i++){
+    
+    if (i % 2 == 0) { console.log(i); }
+};
+maam couldve dont this . or this 
+
+for (var i = 0; i <=100; i+=2){
+    console.log(i); 
+};
+but she wanted to show the use of functions  , and thats why she told there are many ways to a problem . 
 
 
