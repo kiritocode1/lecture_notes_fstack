@@ -11,8 +11,14 @@ for loop in c++ is same to jscript
 for(initilization ; condition , increment/change){
     code . 
 }
-eg 
+eg -----> 
 for(var i = 0 ; i<=100 ; i++){
     console.log(i)
 }
 
+_____________________________________________________________________________________________________________
+while loop --> same as c++/c. 
+while(condition){
+    code ; 
+    increment/change;
+}
