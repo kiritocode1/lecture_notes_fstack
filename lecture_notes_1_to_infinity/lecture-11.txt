@@ -1,7 +1,18 @@
 maam started with jscript
 for, while , do while all present in jscript 
+a++ , present in jscript , 
+a++ is incrementer for new students 
 
+_____________________________________________________________________________________________________________
+jscript is not written in c or c++  , but still syntax is similar 
 
+for loop in c++ is same to jscript 
 
-
+for(initilization ; condition , increment/change){
+    code . 
+}
+eg 
+for(var i = 0 ; i<=100 ; i++){
+    console.log(i)
+}
 
