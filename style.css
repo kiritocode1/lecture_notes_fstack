@@ -2,6 +2,7 @@
     background-color: black;
     font-style: monospace;
     color: white;
+    box-sizing: border-box;
 }
 body{
     display: flex;
