@@ -3,8 +3,11 @@ getelements_by_id(element)
 get_elements_by_classNAME(element)
 same for tag name . 
 
-
-
+_________________________________________________________
+querySelector()----> basically all in one 
+qs(".classname")
+qs("#idname)
+qs("tag")
 
 
 
