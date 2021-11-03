@@ -4,10 +4,13 @@ get_elements_by_classNAME(element)
 same for tag name . 
 
 _________________________________________________________
-querySelector()----> basically all in one 
+querySelector()----> basically all in one , but gets the first one not all of them . zeroth index selector 
 qs(".classname")
 qs("#idname)
 qs("tag")
+changing html tag is possible using querySelector possibly. 
+
+
 
 
 
