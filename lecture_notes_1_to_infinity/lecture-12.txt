@@ -1,0 +1,13 @@
+3,4th were holidays but we had dom manipulation lecture . 
+getelements_by_id(element)
+get_elements_by_classNAME(element)
+same for tag name . 
+
+
+
+
+
+
+
+
+
