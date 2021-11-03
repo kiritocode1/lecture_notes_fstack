@@ -57,6 +57,32 @@ _________________________________________________________
     <script src="script.js"></script>
 </body>
 </html>
+______________________________________________________________________________________________________
+display time 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="./style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>family</title>
+</head>
+<body>
+    <h1 id="id-1" onclick="datey()">hello world !!!</h1>
+    <h2 id="id-2">im k</h2>
+    <script src="script.js"></script>
+</body>
+</html>
+----------------------------------------------------------------------------------------------------------
+and script --> 
+function changetext(id) {
+    id.innerHTML = "damn that was fast";
+}
 
+function datey() {
+    document.getElementById("id-2").innerHTML = Date();
+}
+______________________________________________________________________________________________________
 
 
