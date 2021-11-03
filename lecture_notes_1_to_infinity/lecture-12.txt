@@ -9,11 +9,54 @@ qs(".classname")
 qs("#idname)
 qs("tag")
 changing html tag is possible using querySelector possibly. 
+______________________________________________________________________________________________________
 
 
 
 
 
+______________________________________________________________________________________________________
+mouseout--->event--> whenever cursor leaves an event .  mousedown , up , move 
+keyboard_events--> onkey_up and onkeydown , easy but important . 
+keyup->pressing a key .  keydown --> removing a key 
+####fill->in a form , focus events
+#### on change event handler , loading , unloading . etc all of these are events ...
+
+
+
+______________________________________________________________________________________________________
+we can write functions and easily import the function . 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="./style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>family</title>
+</head>
+<body>
+    <h1 id="id-1" class="cls-1" onclick="">hello world !!!</h1>
+    <h2 class="cls-1">im k</h2>
+    <script src="script.js"></script>
+</body>
+</html>
+_________________________________________________________
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="./style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>family</title>
+</head>
+<body>
+    <h1 id="id-1" class="cls-1" onclick="this.innerHTML='done'">hello world !!!</h1>
+    <h2 class="cls-1">im k</h2>
+    <script src="script.js"></script>
+</body>
+</html>
 
 
 

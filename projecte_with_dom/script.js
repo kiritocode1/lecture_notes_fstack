@@ -1,2 +1,1 @@
-a = document.getElementsByClassName("cls-1")
-console.log(a);
+a = document.querySelector("id-1")
