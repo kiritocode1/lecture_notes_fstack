@@ -1,1 +1,6 @@
-a = document.querySelector("id-1")
+function datey() {
+    document.getElementById("id-2").innerHTML = Date();
+};
+
+
+
