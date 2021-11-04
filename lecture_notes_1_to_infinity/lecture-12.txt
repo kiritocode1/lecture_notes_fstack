@@ -84,5 +84,10 @@ function datey() {
     document.getElementById("id-2").innerHTML = Date();
 }
 ______________________________________________________________________________________________________
-
+functions in ESJ6 --> 
+   _____ no more general description only explicit . 
+  |
+void  function_name =(parameters) =>{
+    code; 
+};
 
