@@ -1,0 +1,13 @@
+jscript . is awesome as always 
+fetched data via  link --->https://jsonplaceholder.typicode.com/users 
+json --> machine readable and human readable format . 
+javascript --> part 
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+function assine = async()=>{
+    a = await fetch("link");
+    b = await a.json();
+    return console.log(b);
+};
+without async/await 
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+fetch("link").then((result)=>result.json()).then((data)=>console.log(data));

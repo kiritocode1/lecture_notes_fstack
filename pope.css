@@ -1,0 +1,25 @@
+*{
+    font-family: Consolas, monaco, monospace;
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+}
+body{
+    padding-left:30%;
+}
+
+
+
+table{
+    width: 400px;
+    align-items:left;
+    height: 200px;  
+}
+image{
+    width:40000px;
+    align-items:left;
+    height:200px;
+}
+#😘:hover{
+    border-radius: 100%;
+}
