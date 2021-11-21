@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--! CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title onclick="func()">tasky</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css"
+        integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<div class="container-fluid">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">
+                <div class="text-primary"><strong>Tasky</strong></div>
+            </a>
+            <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span> -->
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#"><i class="fas fa-home"></i>
+                            <strong>home</strong></a>
+                    </li>
+                </ul>
+                <button class="btn btn-primary"><i class="fas fa-plus"></i> Add more</button>
+            </div>
+        </div>
+    </nav>
+    <div class="container-fluid">
+        <div class="row justify-content-center mt-4">
+            <div class="col-md-6">
+                <div class="input-group mb-3">
+                    <input type="text" class="form-control" placeholder="search here" aria-label="Recipient's username"
+                        aria-describedby="basic-addon2">
+                    <span class="input-group-text" id="basic-addon2"><i class="fas fa-search"></i></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card">
+                            <div class="card-header">
+                                <button type="button" class="btn btn-outline-success"><i class="fas fa-pen"></i></button>
+                                <button type="button" class="btn btn-outline-danger"><i class="fas fa-trash"></i></button>
+                            </div>
+                            <img src="data:image/jpeg;base64,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"
+                                alt="img" id="main-img">
+                            <div class="card-body">
+                                <h5 class="card-title text-primary"><strong>tasky</strong></h5>
+                                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                <a href="#" class="btn btn-primary">click-click</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+    
+</div>
+    <!-- *JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+    <script src="./script.js"></script>
+</body>
+</html>

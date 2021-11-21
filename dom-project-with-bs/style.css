@@ -1,0 +1,16 @@
+#navbarNav{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    background-color:rgb(200, 208, 240);
+
+}
+.card-header{
+    display: flex;
+    justify-content: end;
+    gap: 3px;
+}
+#main-img{
+    border-radius: 3%;
+}

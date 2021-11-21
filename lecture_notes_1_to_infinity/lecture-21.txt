@@ -1,0 +1,6 @@
+so lecture started with local storage  API used for the needed .
+API --> middle man used for a lot of things (i dont know due to abs.)
+
+json.stringify()= array to str .
+
+
