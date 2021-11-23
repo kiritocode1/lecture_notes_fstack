@@ -1,7 +1,34 @@
+the need for textarea is to basically have 
+unique id so we can delete on the spot . soi we used Date.now()
+
+.value ---> value of the functions 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+___________________________________________________________________________________________________________________
 Node-js; 
-begin on day - 24 . 
+begin on day - 24. 
+node js is open source cross platform javascript runtime enviornment .😅😅😅
+node js provides everything for javascript 
+dom manipulation ... is used . 
+global object ---> dom unused . 
+NO dom . no document . just fun .
 
 
 
-
-
+single core means a single instance of node js . 
+node js takes single core making it extremely efficient . good for us , 
+_________________________________________________________________________________________________
