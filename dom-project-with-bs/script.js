@@ -5,7 +5,7 @@ const make_html =(taskData)=>{
     return `<div id = ${taskData.id} class="col-md-6 col-lg-4">
                         <div class="card">
                             <div class="card-header">
-                                <button type="button" class="btn btn-outline-success"><i class="fas fa-pen"></i></button>
+                                <button type="button" class="btn btn-outline-success" onclick="editCard.apply(this,arguments)"><i class="fas fa-pen"></i></button>
                                 <button type="button" class="btn btn-outline-danger" onclick ="delete_card.apply(this,arguments)"><i class="fas fa-trash" onclick="delete_card.apply(this,arguments)"></i></button>
                             </div>
                                 <img src= ${taskData.imageurl} alt="img" id="main-img">
